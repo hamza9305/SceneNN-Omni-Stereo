@@ -8,7 +8,7 @@ Scene-Omni-Stereo is an omni-directional dataset which was generated from the mo
   <img src="Resources/Distorted_Disparity.png" width="200" height="200" hspace="30">
 </p>
 
-<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Distorted Left Image
+<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp; Distorted Left Image
 </figcaption>
 <figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Distorted Right Image
 </figcaption>
