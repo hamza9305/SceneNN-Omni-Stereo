@@ -30,5 +30,5 @@ The python file "Undistortion.py" undistorts the dataset, which takes input as t
 </figcaption>
 <figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Right Image
 </figcaption>
-<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Disparity Image
+<figcaption> &emsp;&emsp;&emsp;&emsp; Undistorted Disparity Image
 </figcaption>
