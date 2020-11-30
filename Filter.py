@@ -5,7 +5,6 @@ from matplotlib import pyplot as plt
 import argparse
 import shutil
 
-
 def main():
     # list of all content in a directory, filtered so only directories are returned
     dir_list = [args.path + directory for directory in os.listdir(args.path) if os.path.isdir(args.path + directory)]
@@ -72,7 +71,6 @@ def main():
                         file2 = os.path.join(image_2_path, img)
                         print('file2',file2)
                         shutil.copy(file2, args.outputPath + '/' + f0 + '/' + image_2)
-
 
 if __name__ == '__main__':
 
