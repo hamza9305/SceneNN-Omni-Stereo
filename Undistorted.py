@@ -79,7 +79,7 @@ def main():
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='')
 
     parser.add_argument('--path', default='/mnt/data/haahm/anynet/',
                         help='path')
