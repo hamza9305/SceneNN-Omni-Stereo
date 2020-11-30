@@ -5,6 +5,12 @@ The original dataset was undistorted using rectifciation maps and remaped into a
 
 <img src="Resources/Distorted_Left.png" width="250" height="250">
 
+<p align="center">
+  <img src="Resources/Distorted_Left.png" width="256" height="455">
+  <img src="Resources/Distorted_Right.png" width="256" height="455">
+  <img src="Resources/Distorted_Disparity.png" width="256" height="455">
+</p>
+
 
 # Undistortion
 The python file "Undistortion.py" undistorts the dataset, which takes input as the location of where the original dataset exists and the output as the location of where the post-processing dataset should be stored 
