@@ -5,7 +5,7 @@ The original dataset was undistorted using rectifciation maps and remaped into a
 
 ![](Resources/Distorted_Left.png){:height="36px" width="36px"}
 
-![test image size](Resources/Distorted_Left.png){ height=50% width=50% }.
+![test image size](Resources/Distorted_Left.png){ height=50% width=50% }
 
 
 
