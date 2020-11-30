@@ -26,9 +26,9 @@ The python file "Undistortion.py" undistorts the dataset, which takes input as t
   <img src="Resources/Undistorted_Disparity.png" width="200" height="200" hspace="30">
 </p>
 
-<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Left Image
+<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Left Image
 </figcaption>
-<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Right Image
+<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Right Image
 </figcaption>
-<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Disparity Image
+<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Disparity Image
 </figcaption>
