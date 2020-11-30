@@ -82,11 +82,4 @@ if __name__ == '__main__':
     parser.add_argument('--outputPath', default='/mnt/data/haahm/Finalising_everything_after_filter/',
                         help='outputPath')
     args = parser.parse_args()
-
-
-
-
-
-
-
     main()
