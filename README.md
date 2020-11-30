@@ -6,9 +6,9 @@ The original dataset was undistorted using rectifciation maps and remaped into a
 <img src="Resources/Distorted_Left.png" width="250" height="250">
 
 <p align="center">
-  <img src="Resources/Distorted_Left.png" width="256" height="455">
-  <img src="Resources/Distorted_Right.png" width="256" height="455">
-  <img src="Resources/Distorted_Disparity.png" width="256" height="455">
+  <img src="Resources/Distorted_Left.png" width="250" height="250">
+  <img src="Resources/Distorted_Right.png" width="250" height="250">
+  <img src="Resources/Distorted_Disparity.png" width="250" height="250">
 </p>
 
 
