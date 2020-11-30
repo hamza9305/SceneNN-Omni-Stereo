@@ -19,3 +19,16 @@ Scene-Omni-Stereo is an omni-directional dataset which was generated from the mo
 ## Undistortion
 The original dataset was undistorted using rectifciation maps and remaped into a perspective dataset.
 The python file "Undistortion.py" undistorts the dataset, which takes input as the location of where the original dataset exists and the output as the location of where the post-processing dataset should be stored 
+
+<p align="center">
+  <img src="Resources/Unistorted_Left.png" alt="sometext" width="250" height="250" hspace="30" figcaption="Album name">
+  <img src="Resources/Undistorted_Right.png" width="250" height="250" hspace="30">
+  <img src="Resources/Undistorted_Disparity.png" width="250" height="250" hspace="30">
+</p>
+
+<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Unistorted Left Image
+</figcaption>
+<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Right Image
+</figcaption>
+<figcaption> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Undistorted Disparity Image
+</figcaption>
