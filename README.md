@@ -5,9 +5,8 @@ The original dataset was undistorted using rectifciation maps and remaped into a
 
 ![](Resources/Distorted_Left.png){:height="36px" width="36px"}
 
-![test image size](Resources/Distorted_Left.png){:class="img-responsive"}
-![test image size](Resources/Distorted_Left.png){:height="50%" width="50%"}
-![test image size](Resources/Distorted_Left.png){:height="700px" width="400px"}
+![test image size](Resources/Distorted_Left.png) <!-- .element height="50%" width="50%" -->
+
 
 # Undistortion
 The python file "Undistortion.py" undistorts the dataset, which takes input as the location of where the original dataset exists and the output as the location of where the post-processing dataset should be stored 
