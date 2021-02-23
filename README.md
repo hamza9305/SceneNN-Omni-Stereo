@@ -3,7 +3,7 @@
 Scene-Omni-Stereo is an omni-directional dataset which was generated from the models of the SceneNN dataset and rendered by the Department, "Digital Signal Processing and Circuit Design" at Technische Universitat Chemnitz. The image pairs were generated with a virtual stereo camera placed at the ceiling at 1000 different locations with different elevation angles. The flats were split into three parts: training (34000 images), validation (5000 images) and testing (10000 images). The Rendering was done in Blender 2.8 with Cycles rendering engine. The reference camera C_0 was always at a constant height of 2.3 m which is and the second camera C_1 was placed right of it, with a baseline of 30 cm.
 
 <p align="center">
-  <img src="Resources/Distorted_Left.png" width="200" height="200" hspace="30">
+  <img src="Resources/Distorted_Left.png" width="200" height="200" hspace="30" "Distoretd">
   <img src="Resources/Distorted_Right.png" width="200" height="200" hspace="30">
   <img src="Resources/Distorted_Disparity.png" width="200" height="200" hspace="30">
 </p>
