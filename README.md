@@ -4,7 +4,7 @@ Scene-Omni-Stereo is an omni-directional dataset which was generated from the mo
 
 
 <figure>
-  <img src="Resources/Distorted_Left.png" alt="Trulli" style="width:100%">
+  <img src="Resources/Distorted_Left.png" img align="left" width="200" height="200" alt="Trulli" style="width:100%">
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure>
 
