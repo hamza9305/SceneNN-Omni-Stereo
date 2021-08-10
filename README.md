@@ -18,7 +18,7 @@ The python file "Undistortion.py" undistorts the dataset, which takes input as t
 
 <p align="center">
   <img src="Resources/Undistorted_Left.png" width="200" height="200" img align="left">
-  <img src="Resources/Undistorted_Right.png" width="200" height="200" hspace="30">
+  <img src="Resources/Undistorted_Right.png" width="200" height="200">
   <img src="Resources/Undistorted_Disparity.png" width="200" height="200" hspace="30" img align="right">
 </p>
 
