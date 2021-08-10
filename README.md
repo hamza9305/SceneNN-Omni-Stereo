@@ -4,7 +4,7 @@ Scene-Omni-Stereo is an omni-directional dataset which was generated from the mo
 
 
 <p align="center">
-  <img src="Resources/Distorted_Left.png" img align="left" width="200" height="200" alt= "Distoretd"> 
+  <img src="Resources/Distorted_Left.png" img align="left" width="200" height="200" alt= "Distorted"> 
   <img src="Resources/Distorted_Right.png" width="200" height="200"  >
   <img src="Resources/Distorted_Disparity.png" img align="right" width="200" height="200">
 </p>
@@ -17,8 +17,8 @@ The original dataset was undistorted using rectifciation maps and remaped into a
 The python file "Undistortion.py" undistorts the dataset, which takes input as the location of the original dataset and the outputs the undistorted images to the output location. The script declares a intrinsic matrix of the fisheye dataset by finding the relevant parameters and the intrinsic matrix for a normal perspective camera. The script then generates rectification maps from the original image using camera matrix and the distortion coefficients. A remapping function is then used to undistort the fisheye image.
 
 <p align="center">
-  <img src="Resources/Undistorted_Left.png" width="200" height="200" hspace="30">
+  <img src="Resources/Undistorted_Left.png" width="200" height="200" img align="left">
   <img src="Resources/Undistorted_Right.png" width="200" height="200" hspace="30">
-  <img src="Resources/Undistorted_Disparity.png" width="200" height="200" hspace="30">
+  <img src="Resources/Undistorted_Disparity.png" width="200" height="200" hspace="30" img align="right">
 </p>
 
